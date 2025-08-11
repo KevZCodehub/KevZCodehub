@@ -6,7 +6,7 @@
 - 🎓 **B.Sc. in Statistics & Computer Science** @ McGill University (2023–2026)  
 
 ### 🏗 Featured Projects
-- **[Hack4Impact Translation App](#)** – React + RAG LLM app to simplify text for autistic children
+- **[Hack4Impact Translation App]** – React + RAG LLM app to simplify text for autistic children
 - **Predictive Test Tool** – React frontend with Java-Python backend leveraging ChatGPT API for real-time next-word suggestions.
 - **StockPulse** - Streamlit app integrating IEX Cloud API for interactive stock price visualization, key metrics, and downloadable historical data.
 
